@@ -1,14 +1,2 @@
 num x = 42;
-deci pi = 3.14;
-string name = "Eags";
-print{"Hello, %s", name};
-
-if (x > 10) [
-    print{"big number"};
-] else [
-    print{"small number"};
-]
-
-func add(num a, num b), num [
-    return a + b;
-]
+set x = 52;

@@ -1,4 +1,4 @@
 # Onion
-<img src = "Images/OnionLogo.svg" alt = "Onion Logo"></img>
-## A programming language
-You can make stuff in it. It will transpile to C. #yay
+Onion is a programming language. You can make stuff in it. It will transpile to anything so long as someone makes a leek for it. #yay
+
+<img src="images/OnionLogo.svg" width="50" alt="Onion Logo">
